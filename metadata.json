@@ -1,0 +1,6 @@
+{
+  "name": "Espaço M",
+  "description": "Salão de eventos corporativo e social futurista em Ariquemes, RO. Ambientes com iluminação cênica neon, tecnologia de ponta e infraestrutura completa para momentos inesquecíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
